@@ -1,13 +1,7 @@
 {
     "name": "gearmagicru/gm-wd-menu",
-    "description": "Site widget \"Menu\"",
-    "keywords": [
-        "gm",
-        "gearmagic",
-        "site",
-        "widget",
-        "menu"
-    ],
+    "description": "Website widget \"Menu\"",
+    "keywords": ["gearmagic", "gm-panel", "gm-component", "gm-widget", "widget", "menu"],
     "homepage": "https://apps.gearmagic.ru/component/gm-wd-menu",
     "type": "component",
     "license": "MIT",
